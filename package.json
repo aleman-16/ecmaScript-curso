@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Manuel Aleman <manuz.aleman@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
